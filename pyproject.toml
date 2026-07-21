@@ -1,0 +1,18 @@
+[project]
+name = "BDTMSD-Python-2026-07"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "ipyparallel",
+    "gitautopush",
+    "ipython",
+    "matplotlib",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "plotly",
+    "pyarrow",
+    "seaborn",
+    "xlrd",
+]
