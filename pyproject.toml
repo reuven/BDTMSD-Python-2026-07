@@ -15,4 +15,5 @@ dependencies = [
     "pyarrow",
     "seaborn",
     "xlrd",
+    "rich>=15.0.0",
 ]
